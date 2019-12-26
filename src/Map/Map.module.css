@@ -1,0 +1,20 @@
+.speed_value {
+  background-color: var(--rt-white);
+  padding: 0rem 1rem;
+  font-size: 2rem;
+  border-radius: 5px;
+  color: var(--rt-black);
+}
+
+.copyright {
+  position: absolute;
+  top: 706px;
+  right: 0;
+  left: auto;
+}
+
+.copyright a {
+  margin: 0 0.5rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 0.75rem;
+}
